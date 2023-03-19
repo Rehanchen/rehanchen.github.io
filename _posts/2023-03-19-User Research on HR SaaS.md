@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      User Research on B2B Software (HR SaaS)
-subtitle:   Project Experience
+title:      User Research on HR SaaS
+subtitle:   B2B Software design
 date:       2022
 author:     Weijie Chen
 header-img: img/the-first.png
