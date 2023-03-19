@@ -1,0 +1,11 @@
+# Thematic analysis to improve public service
+
+# Project description
+
+Aimed to figure out reasons why the regional differences in service experience of one uniform matter exist.
+
+# Main duties
+
+Executed analysis: Chosen approval time as an indicator of the service experience and districts as the independent variable. Used the variance analysis method to determine whether regional differences exist for the matters. Outputted The effect size and p-value. Uncovering reasons by using the mediation model to identify mediator variables.
+
+Extracted insights and reported.

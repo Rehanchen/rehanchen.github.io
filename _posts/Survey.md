@@ -1,0 +1,13 @@
+# Satisfaction survey for X city’s public service
+
+# Project description
+
+Aimed to measure citizen satisfaction with X city’s public service
+
+# Main duties
+
+Designed a questionnaire: developed a questionnaire outline; Designed logic for error checking.
+
+Executed Survey: obtained a sample list from clients, and allocated sample quotas to accurately represent the characteristics of all subgroups.
+
+Analyzed data: cleaned data by eliminating invalid samples and outliers, and determined scoring methods for calculating final scores and rankings.

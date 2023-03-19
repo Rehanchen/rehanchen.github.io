@@ -1,0 +1,16 @@
+# Research on Financial expenditure performance evaluation
+
+# Project description
+
+Aimed to evaluate the results achieved by programs and initiatives against their stated objectives, as well as assessing the cost-effectiveness of the spending, including evaluating government funds on Z city’s 2019-2022 talent policy and funds on 2016-2022 dredging of waterways.
+
+# Main duties
+
+Defined research objectives by understanding the expectations of the program stakeholders, identifying the key evaluation criteria, and formulating research hypotheses.
+
+Developed an evaluation framework to access the program’s efficiency, effectiveness, and sustainability.
+
+Collected and analyzed accurate and ethical data from multiple sources such as surveys, interviews, and focus groups.
+
+Extracted and reported meaningful insights to provide clear and actionable recommendations for improvement.
+
