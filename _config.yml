@@ -12,7 +12,7 @@ github_repo: "https://github.com/rehanchen/rehanchen.github.io.git" # you code r
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "an introvert in pursuit the answer!"
-sidebar-avatar: /img/self-image     # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/self-image.jpg     # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
