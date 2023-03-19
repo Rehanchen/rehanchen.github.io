@@ -17,7 +17,7 @@ sidebar-avatar: /img/简历照片.jpg      # use absolute URL, seeing it's used 
 
 
 # SNS settings
-RSS: true
+RSS: false
 # zhihu_username:     qiubaiying
 # github_username:    rehanchen.github.io
 # facebook_username:  baiying.qiu.7
